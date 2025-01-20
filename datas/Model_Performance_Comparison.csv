@@ -1,0 +1,13 @@
+Model,Average MAE,Average RMSE
+XGBoost Univariant,35.68,45.2
+XGBoost Multivariant,278.08,386.75
+RandomForest Univariant,27.33,46.16
+RandomForest Multivariant,274.57,390.97
+ARIMA,740.07,868.38
+SARIMA Univariant,857.75,991.04
+SARIMA Multivariant,769.94,884.29
+Prophet,751.82,903.75
+LSTM Univariant,367.3,501.73
+LSTM Multivariant,95.43,116.2
+N-BEATS,524.1,803.32
+TFT,116.5,134.5
